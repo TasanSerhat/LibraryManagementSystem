@@ -26,8 +26,23 @@ Java Swing ile geliştirilmiş, JDBC ve MySQL kullanan, modern ve kullanıcı do
 	1. Herhangi bir java IDE'si ile proje import edilerek "Main" classın çalıştırılması ile.
 	2. Proje dizininde yer alan "dist" klasörünün içinde "LibraryManagementSystem.jar" uygulamasının çalıştırılması ile. (Çalıştırmadan önce ayrıca bu klasörde yer alan "connection_config.properties" dosyasını kendi MySQL bağlantı bilgilerinizle değiştirmeyi unutmayın.)
 
-## Ekran Görüntüleri
+## Test Hesapları
 
+   1. Admin/(role-admin):
+ 	 Kullanıcı adı: admin
+,
+   	 Şifre: admin123
+   3. Member/(role-member):
+         Kullanıcı adı: member
+,
+         Şifre: member123
+
+## Ekran Görüntüleri
+![Proje Görseli](ScreenShoots/1.png)
+![Proje Görseli](ScreenShoots/2.png)
+![Proje Görseli](ScreenShoots/3.png)
+![Proje Görseli](ScreenShoots/4.png)
+![Proje Görseli](ScreenShoots/5.png)
 
 ## Katkı ve Lisans
 Eğitim amaçlıdır.
