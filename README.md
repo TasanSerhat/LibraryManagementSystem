@@ -18,7 +18,7 @@ Java Swing ile geliştirilmiş, JDBC ve MySQL kullanan, modern ve kullanıcı do
 - MySQL
 
 ## Kurulum ve Gereklilikler
-1. Java sürümü 8 olmalıdır
+1. Java sürümü 8, jdk sürümü 22 olmalıdır
 2. MySQL Server bilgisayarınızda kurulu ve çalışır durumda olmalıdır.
 3. MySQL veritabanı sisteminde `library_db` adında bir veritabanı oluştur ve proje dizininde yer alan `library_db` SQL dosyasını içe aktar.
 4. Proje dizininde yer alan "connection_config.properties" dosyasını metin belgesi ile açıp kendi MySQL bağlantınız için gerekli url, username ve password bilgilerinizi girin.
